@@ -1,0 +1,9 @@
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.exe.config
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.exe
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.pdb
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.Form1.resources
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.Properties.Resources.resources
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.exe
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.pdb
